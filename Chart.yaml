@@ -1,0 +1,5 @@
+name: testing
+description: testing
+version: 1.0.0
+sources:
+  - https://github.com/igstbagusdharmaputra/chart
