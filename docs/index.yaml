@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   testing:
   - apiVersion: v1
-    created: "2022-10-14T05:09:44.265926671Z"
+    created: "2022-10-14T05:18:34.444202616Z"
     description: testing
-    digest: 48672bd4920e57bba1b55511e4487433b3c6d44c17770e2e92b4e2c7c6b2d3d1
+    digest: fed4813678b2f73c3d8e1d610815dd1c5397212ee56850f0e158242ec9fd5b7c
     name: testing
     sources:
     - https://github.com/igstbagusdharmaputra/chart
     urls:
-    - https://github.com/igstbagusdharmaputra/chart/testing-1.0.0.tgz
+    - https://igstbagusdharmaputra.github.io/chart/testing-1.0.0.tgz
     version: 1.0.0
-generated: "2022-10-14T05:09:44.25823921Z"
+generated: "2022-10-14T05:18:34.439031999Z"
